@@ -20,6 +20,7 @@ namespace ConsoleApp2
         {
             //CSVReader c = new CSVReader();
             //List<double> l = c.getRow(162);
+            Console.WriteLine("works");
             GraphModel Gm = new GraphModel();
             Gm.setGraphCol(37,140);
             Gm.setCorrelativeGraphCol(37,140);
